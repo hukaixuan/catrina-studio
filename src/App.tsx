@@ -1,6 +1,8 @@
 import Studio from './components/Studio'
 import FAQ from './components/FAQ'
 
+const COPYRIGHT_YEAR = new Date().getFullYear()
+
 export default function App() {
   return (
     <div className="min-h-screen">
@@ -96,7 +98,7 @@ export default function App() {
           celebration and remembrance, never mockery.
         </p>
         <p className="mt-2">
-          Photos processed locally in your browser. © {new Date().getFullYear()} Catrina AI Look Studio
+          Photos processed locally in your browser. © {COPYRIGHT_YEAR} Catrina AI Look Studio
         </p>
       </footer>
     </div>
