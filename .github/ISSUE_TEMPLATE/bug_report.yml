@@ -1,0 +1,20 @@
+name: Bug report
+description: Something is broken or produces a wrong result
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: Steps to reproduce, what you expected, and what you saw.
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: Browser and OS
+      placeholder: e.g. Chrome 130 on macOS 15
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots or generated output

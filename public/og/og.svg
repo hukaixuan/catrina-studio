@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#0d0806"/>
+  <circle cx="200" cy="120" r="180" fill="#f4a300" fill-opacity="0.15"/>
+  <circle cx="1000" cy="500" r="220" fill="#e85d8a" fill-opacity="0.12"/>
+  <text x="80" y="260" fill="#f4a300" font-family="Georgia, serif" font-size="96" font-weight="700">Catrina AI</text>
+  <text x="80" y="340" fill="#fff8ef" font-family="system-ui, sans-serif" font-size="36">Free Día de Muertos sugar-skull look studio</text>
+  <text x="80" y="400" fill="#e85d8a" font-family="system-ui, sans-serif" font-size="28">Estudio gratis de look Catrina</text>
+  <text x="80" y="520" fill="#fff8ef" fill-opacity="0.55" font-family="system-ui, sans-serif" font-size="22">Overlays · Nano Banana &amp; Gemini prompts · No signup</text>
+</svg>
